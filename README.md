@@ -1,6 +1,9 @@
-# chatty_app_design
+# Chatty App Design
 
-A new Flutter project.
+Slicing of chatty designs <br>
+Figma : https://www.figma.com/file/ku6dIUuEtBjBPNja3jgYaU/Chatty?node-id=0%3A1 <br>
+Try the app: <br>
+https://drive.google.com/file/d/117mbSPBkkRxweHyJA1iqKVLHTBjye-wQ/view?usp=sharing
 
 ## Getting Started
 
